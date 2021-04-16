@@ -36,3 +36,9 @@ Os principais pontos a serem avaliados serão:
 - Node JS (Express e padrão REST)
 - MongoDB ou PostgreSQL
 - AWS
+
+## Prazo
+21 de Abril de 2021
+
+## Conclusão
+Não se preocupe caso não consiga cumprir o prazo, e lembre-se, todos os pontos citados serão analisados.
