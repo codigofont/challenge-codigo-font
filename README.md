@@ -22,16 +22,22 @@ Um usuário poderá adicionar produtos ao seu carrinho e realizar uma compra, no
 Os principais pontos a serem avaliados serão:
 - Conhecimento técnico
 - Code pattern
-- Utilização do Docker
 - Gerência do versionamento no Github
 - Qualidade da aplicação
 - Tempo de entrega
+- Boas praticas de ECMAScript
 
 ## Stack
-- Docker
 - Next JS (React)
-- Node JS (Express e padrão REST)
+- Node JS (Express e padrão RESTful API)
 - MongoDB
+
+## Desejável
+- Docker
+- TypeScript
+- Responsividade(Moblie & Tablet)
+- Sass
+- **Testes Unitários(Ex. Jest)**
 
 ## Estimativa
 Você terá 10 dias para realizar este projeto.
