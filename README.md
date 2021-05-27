@@ -35,9 +35,9 @@ Os principais pontos a serem avaliados serão:
 ## Desejável
 - Docker
 - TypeScript
-- Responsividade(Moblie & Tablet)
+- Responsividade (Mobile & Tablet)
 - Sass
-- **Testes Unitários(Ex. Jest)**
+- **Testes Unitários (Ex. Jest)**
 
 ## Estimativa
 Você terá 10 dias para realizar este projeto.
