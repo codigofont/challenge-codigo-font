@@ -15,9 +15,6 @@ Um usuário poderá cadastrar novos produtos, inserindo o nome do produto, preç
 ### Carrinho de Compras
 Um usuário poderá adicionar produtos ao seu carrinho e realizar uma compra, no qual ele só poderá adicionar 1 produto de cada no carrinho. É importante lembrar também que o estoque do produto deve ser considerado, não permitindo um usuário comprar um produto com estoque zerado. Obs: não é necessário levar em conta uma plataforma de pagamento, ou seja, ao entrar no carrinho e clicar em comprar, aquela transação já pode ser considerada como finalizada (lembrando sempre de descontar do estoque a cada compra).
 
-## Docker e Versionamento
-É obrigatória a utilização do Docker para padronizar o projeto e facilitar a execução dos códigos. A forma que você gerenciar o versionamento também será analisada (padrões de commit e gerência das branchs). 
-
 ## Avaliação
 Os principais pontos a serem avaliados serão:
 - Conhecimento técnico
@@ -25,22 +22,21 @@ Os principais pontos a serem avaliados serão:
 - Gerência do versionamento no Github
 - Qualidade da aplicação
 - Tempo de entrega
-- Boas praticas de ECMAScript
 
 ## Stack
 - Next JS (React)
 - Node JS (Express e padrão RESTful API)
 - MongoDB
 
-## Desejável
+## Desejável (Não obrigatório)
 - Docker
 - TypeScript
-- Responsividade (Mobile & Tablet)
-- Sass
+- Responsividade (Mobile)
+- SASS
 - **Testes Unitários (Ex. Jest)**
 
 ## Estimativa
 Você terá 10 dias para realizar este projeto.
 
 ## Entrega
-Para entregar este projeto, você deverá criar um repositório e ao finalizar o projeto ou o prazo, você deverá adicionar o usuário nbxNTC (Mario Sergio) ao seu projeto, para que ele seja avaliado.
+Para entregar este projeto, você deverá criar um repositório e ao finalizar o projeto ou o prazo, você deverá nos contatar e nos informar este repositório, para que seja analisado.
