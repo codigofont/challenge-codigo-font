@@ -36,7 +36,10 @@ Os principais pontos a serem avaliados serão:
 - **Testes Unitários (Ex. Jest)**
 
 ## Estimativa
-Você terá 10 dias para realizar este projeto.
+Você terá até 10 dias para realizar este desafio, o tempo de entrega também usamos como critério.
 
 ## Entrega
-Para entregar este projeto, você deverá criar um repositório e ao finalizar o projeto ou o prazo, você deverá nos contatar e nos informar este repositório, para que seja analisado.
+Para entregar do desafio, você deverá criar um repositório e ao finalizar o projeto ou o prazo, você deverá nos contatar pelo e-mail tecnologia@codigofont.com informando o repositório, para que seja analisado. Aguardo o desafio!!!
+
+## Feedback
+Você receberá um feedback do recebimento do desafio e em 24 horas após confirmação do recebimento daremos o feedback da contratação.
